@@ -1,4 +1,4 @@
-# Data Analytics AREP Assessment
+# Data Analytics AEP Assessment
 
 Welcome to the Data Analytics Alumni Re-Engagement Program Assessment!
 
